@@ -1,0 +1,27 @@
+.home_container {
+  font-size: 14px;
+  display: flex;
+  flex-direction: column;
+  font-family: "Courier New";
+}
+
+.import {
+  color: #f69afc;
+}
+
+.normal_text {
+  color: #b9eef0;
+}
+
+.custom_tag {
+  color: #39bcbf;
+}
+
+.custom_tag:hover {
+  color: white;
+  cursor: pointer;
+}
+
+.class_name {
+  color: #feffab;
+}
